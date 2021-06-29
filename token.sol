@@ -1,12 +1,12 @@
 /**
- *Submitted for verification at BscScan.com on 2021-06-21
+ *Submitted for verification at BscScan.com on 2021-06-29
 */
 
 // SPDX-License-Identifier: Unlicensed
 
 /**
 
- ROYAL LUXURY COIN
+ LUXURY ROYAL COIN
 
  JOIN US AT
 
@@ -790,7 +790,7 @@ contract LRCO is Context, IERC20, Ownable {
     mapping (address => bool) private _isExcluded;
     address[] private _excluded;
 
-    address private _marketingWalletAddress = 0xB06fe0D1bc54dE5aAA70eF3229d6dA1a527Ea327;
+    address private _marketingWalletAddress = 0x04c2f98c9045Fd22f60F7036712A5Df6e4076724;
    
     uint256 private constant MAX = ~uint256(0);
     uint256 private _tTotal = 1 * 10**10 * 10**18;

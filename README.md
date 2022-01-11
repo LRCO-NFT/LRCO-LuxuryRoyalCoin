@@ -10,7 +10,8 @@ Luxury Royal Coin customized hybrid structure will help to run more efficiently 
 
 A hybrid structure and matrix departmentalisation is an organizational model best suited for a dynamic work environment of a Luxury Royal Coin project, as hybrid structures will allow the transition from a centralized project to a decentralized project or vice versa as the Luxury Royal Coin Eco - Chain platform has dilemmas of centralization and decentralization.
 
-The centralized dilemma of the project is innovative eco projects for a sustainable environment that collaborate with Luxury Royal Coin Eco - Chain platform. The decentralized dilemma of the project is blockchain technology, and the backbone of the Luxury Royal Coin cryptocurrency, which belongs to the category of decentralized finance (Defi). It also includes, Tokenomic (Token economy), NFTnomic (NFT economy), NFT, VR office on Meta, and also NFT brand boutique on Meta. The NFTnomic program and NFT boutique of the Luxury Royal Coin currently has no analogue in the entire blockchain space. NFT boutique is store where branded goods will be sold in a single copy through the NFT program, branded goods will be from famous brands. The Luxury Royal Coin project in the future when expanding around the world, when expanding the team and achieving the set goals at the initial stage, include two more types of structure for project management, such as: 
+The centralized dilemma of the project is innovative eco projects for a sustainable environment that collaborate with Luxury Royal Coin Eco - Chain platform. The decentralized dilemma of the project is blockchain technology, and the backbone of the Luxury Royal Coin cryptocurrency, which belongs to the category of decentralized finance (Defi). It also includes, Tokenomic (Token economy), NFTnomic (NFT economy), NFT, VR office on Meta and NFTnomic program.  
+The Luxury Royal Coin project in the future when expanding around the world, when expanding the team and achieving the set goals at the initial stage, include two more types of structure for project management, such as: 
 
 Flatarchies
 Halocratic
@@ -23,12 +24,18 @@ This two type of structure proper decentralised dilemma of the Luxury Royal Coin
 ---------------
 Luxury Royal Coin (LRCO) Eco - Chain platform official website and socail pages:
 Website: https://lrco.io/
+---
 Twitter: https://twitter.com/LuxuryRoyalCoin
+---
 LinkedIn: https://www.linkedin.com/company/luxury-royal-coin-lrco
+---
 Telegram Channel: https://t.me/joinchat/nDDr7ux9FMw4YmFk
 Telegram Group EN: https://t.me/joinchat/7P3LlXEnf7ljMTI0
 Telegram Group RU: https://t.me/joinchat/xQ24KBjChpgxOTVk
+---
 YouTube: https://www.youtube.com/channel/UC1PP3gJXZhTfeU6lzEagdUA/featured
+---
 Instagram: https://www.instagram.com/lrco_official/
+---
 
 For more information visit LRCO Official Website.

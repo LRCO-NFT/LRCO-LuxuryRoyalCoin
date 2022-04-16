@@ -18,7 +18,8 @@ Twitter: https://twitter.com/LrcoNft
 Reddit: https://www.reddit.com/user/LRCO_NFT
 ---
 Telegram Channel: https://t.me/LRCO_NFT
-Telegram Group EN: https://t.me/LRCO_NFT_OFFICIAL
+---
+Telegram Group: https://t.me/LRCO_NFT_OFFICIAL
 ---
 Instagram: https://www.instagram.com/lrco_nft/
 ---

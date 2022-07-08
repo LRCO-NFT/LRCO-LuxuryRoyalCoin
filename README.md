@@ -11,7 +11,6 @@ LRCO-NFT is also proud to present the Luxury Royal Coin (LRCO) crypto token, wit
 --------------------------
 ---------------
 Our official website and socail pages:
-Website: https://lrco.io/
 ---
 Twitter: https://twitter.com/LrcoNft
 ---
